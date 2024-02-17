@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "131796129875",
+    "project_id": "yarachesu-brewcrew",
+    "storage_bucket": "yarachesu-brewcrew.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:131796129875:android:e88aa4b14257395471cea6",
+        "android_client_info": {
+          "package_name": "com.myfirstapp.flutter_application"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCDBpq2l7Ba1ihd-ByBT698eb5qGf1hemk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
